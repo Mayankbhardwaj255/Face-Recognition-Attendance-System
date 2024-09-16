@@ -2,8 +2,7 @@ New! Keyboard shortcuts … Drive keyboard shortcuts have been updated to give y
 # Face-Recognition-Attendance-Management-System
 Attendance Management System based on Face Recognition using Python  and OpenCv  
 
-### Sourcerer
-<img src="https://avatars.githubusercontent.com/u/84435079?v=4" height="50px" width="50px" alt=""/>
+
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
@@ -43,9 +42,7 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 <img src="https://github.com/Pragya9ps/Face-Recognition-Attendance-System/blob/main/Screenshot%20(35).png">
 
 
-### Video demo
 
-[Youtube](https://youtu.be/onms2KDOTtY)
 
 
 ### Notes
